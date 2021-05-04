@@ -1,0 +1,1 @@
+wmic service get * /format:list

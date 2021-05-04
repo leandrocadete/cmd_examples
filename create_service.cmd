@@ -1,0 +1,1 @@
+sc create "ServiceName" BinPath="%cd%ServiceName.exe" start= auto
